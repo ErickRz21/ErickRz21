@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## About Me
+Student of computer systems engineering. I consider myself as a responsalbe and cautious person, capable of working with a team. Looking for an internship to learn more about the field.
+## Skills
+
+## Links
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 <!--
 **ErickRz21/ErickRz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
