@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hello There 👋
+### 🏂 Erick Ruiz 
 
-## About Me
+## 🤷🏼 About Me
 Student of computer systems engineering. I consider myself as a responsalbe and cautious person, capable of working with a team. Looking for an internship to learn more about the field.
+
 ## 🧰 Languages and tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -18,7 +20,6 @@ Student of computer systems engineering. I consider myself as a responsalbe and 
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <br />
-
 #
 
 ## Links
