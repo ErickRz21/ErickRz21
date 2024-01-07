@@ -1,5 +1,5 @@
-### Hello There 👋
-### 🏂 Erick Ruiz 
+# Hello There 👋
+# 🏂 Erick Ruiz 
 
 ## 🤷🏼 About Me
 Student of computer systems engineering. I consider myself as a responsalbe and cautious person, capable of working with a team. Looking for an internship to learn more about the field.
