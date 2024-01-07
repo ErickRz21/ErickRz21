@@ -2,8 +2,7 @@
 
 ## About Me
 Student of computer systems engineering. I consider myself as a responsalbe and cautious person, capable of working with a team. Looking for an internship to learn more about the field.
-## Languages and tools
-### 🧰 Languages and Tools
+## 🧰 Languages and tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
