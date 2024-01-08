@@ -1,5 +1,5 @@
-# Hello There 👋
 # 🏂 Erick Ruiz 
+## Hello There 👋
 
 ## 🤷🏼 About Me
 I'm a student currently pursuing a bachelors degree in computer systems engineering, currently i try to learn about newer technologies to put myself into date with current jobships.
