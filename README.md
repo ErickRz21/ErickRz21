@@ -2,7 +2,7 @@
 # 🏂 Erick Ruiz 
 
 ## 🤷🏼 About Me
-Student of computer systems engineering. I consider myself as a responsalbe and cautious person, capable of working with a team. Looking for an internship to learn more about the field.
+I'm a student currently pursuing a bachelors degree in computer systems engineering, currently i try to learn about newer technologies to put myself into date with current jobships.
 
 ## 🧰 Languages and tools
 
