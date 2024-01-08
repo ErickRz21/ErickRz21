@@ -1,10 +1,10 @@
 # 🏂 Erick Ruiz 
-<h1>Hello There 👋</h1> 
+## Hello There 👋 
 
-## 🤷🏼 About Me
+### 🤷🏼 About Me
 I'm a student currently pursuing a bachelors degree in computer systems engineering, currently i try to learn about newer technologies to put myself into date with current jobships.
 
-## 🧰 Languages and tools
+### 🧰 Languages and tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
@@ -21,7 +21,7 @@ I'm a student currently pursuing a bachelors degree in computer systems engineer
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <br />
 
-## Links
+### Links
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 <!--
