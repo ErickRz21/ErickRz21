@@ -22,8 +22,8 @@ I'm a student currently pursuing a bachelors degree in computer systems engineer
 <br />
 
 ### Links
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-[![Static Badge](https://img.shields.io/badge/Instagram-message?style=for-the-badge&logo=Instagram&logoColor=white&color=purple)](https://www.instagram.com/ericks_ruiz/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ErickRz21)
+[![instagram](https://img.shields.io/badge/Instagram-message?style=for-the-badge&logo=Instagram&logoColor=white&color=purple)](https://www.instagram.com/ericks_ruiz/)
 
 
 
