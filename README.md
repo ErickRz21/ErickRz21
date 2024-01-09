@@ -23,6 +23,7 @@ I'm a student currently pursuing a bachelors degree in computer systems engineer
 
 ### Links
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+[<img align="left" alt="Instagram" width="32px" src="https://image-url/twitter-icon.png" />](https://www.instagram.com)
 
 <!--
 **ErickRz21/ErickRz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
