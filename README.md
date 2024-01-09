@@ -23,7 +23,8 @@ I'm a student currently pursuing a bachelors degree in computer systems engineer
 
 ### Links
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Instagram-message?style=for-the-badge&logo=Instagram&logoColor=white&color=purple&link=https%3A%2F%2Fwww.instagram.com%2Fericks_ruiz%2F)
+<object alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+
 
 
 
