@@ -23,7 +23,7 @@ I'm currently pursuing a bachelors degree in computer systems engineering at "Un
 ### 🔗 Links
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ErickRz21)
 [![instagram](https://img.shields.io/badge/Instagram-message?style=for-the-badge&logo=Instagram&logoColor=white&color=%235851DB)](https://www.instagram.com/ericks_ruiz/)
-[![portfolio](https://img.shields.io/badge/portfolio-red?style=for-the-badge&logoColor=white&color=E02947)]
+[![portfolio](https://img.shields.io/badge/portfolio-red?style=for-the-badge&logoColor=white&color=E02947)(https://erickrz21.github.io)]
 
 
 ### 🤓 Fun Fact
