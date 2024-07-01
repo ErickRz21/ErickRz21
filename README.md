@@ -11,7 +11,6 @@
 I'm currently pursuing a bachelors degree in computer systems engineering at "Universidad Autónoma de Coahuila" , currently i try to learn about newer technologies to put myself into date for the work environment. I´m currently enrolled in machine learning courses so i can have more experience in the AI area so hopefully one day i can reach a master's degree in a related area.
 
 ### 👨‍💻 Programming Languages
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,javascript,java,ruby,swift&theme=light" />
@@ -27,7 +26,7 @@ I'm currently pursuing a bachelors degree in computer systems engineering at "Un
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <a href="https://github.com/ErickRz21/github-readme-stats">
+  <a href="[https://github.com/ErickRz21/github-readme-stats](https://github.com/ErickRz21?tab=repositories)">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickRz21&layout=donut&show_icons=true&theme=radical" alt="Top Langs" style="height: 200px;">
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=ErickRz21&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 200px;">
