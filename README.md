@@ -19,6 +19,10 @@ I'm currently pursuing a bachelors degree in computer systems engineering at "Un
   </a>
 </p>
 
+### 📊 Quick Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickRz21&layout=donut&show_icons=true&theme=radical)](https://github.com/ErickRz21/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickRz21&show_icons=true&theme=radical)
+
 ### 🔗 Links
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ErickRz21)
 [![instagram](https://img.shields.io/badge/Instagram-message?style=for-the-badge&logo=Instagram&logoColor=white&color=%235851DB)](https://www.instagram.com/ericks_ruiz/)
