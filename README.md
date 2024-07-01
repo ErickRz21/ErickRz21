@@ -1,6 +1,6 @@
 # 🏂 Erick Ruiz 🇲🇽
 <div align="center">
-  <a href="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx">
+  <a href="[ErickRz21](https://github.com/ErickRz21)">
     <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" alt="GIPHY">
   </a>
 </div>
