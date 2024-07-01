@@ -1,11 +1,11 @@
 # 🏂 Erick Ruiz 🇲🇽
-
-## Hello There 👋 
 <div align="center">
   <a href="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx">
     <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" alt="GIPHY">
   </a>
 </div>
+
+## 👋 Hello There
 
 ### 🤷🏼 About Me
 I'm currently pursuing a bachelors degree in computer systems engineering at "Universidad Autónoma de Coahuila" , currently i try to learn about newer technologies to put myself into date for the work environment. I´m currently enrolled in machine learning courses so i can have more experience in the AI area so hopefully one day i can reach a master's degree in a related area.
