@@ -37,9 +37,11 @@ I'm currently pursuing a bachelors degree in computer systems engineering at "Un
   <a href="https://github.com/ErickRz21">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="github">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ericks_ruiz/">
     <img src="https://img.shields.io/badge/Instagram-message?style=for-the-badge&logo=Instagram&logoColor=white&color=%235851DB" alt="instagram">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://erickrz21.github.io">
     <img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge&logoColor=white&color=E02947" alt="portfolio">
   </a>
@@ -47,7 +49,7 @@ I'm currently pursuing a bachelors degree in computer systems engineering at "Un
 
 
 ### 🤓 Fun Fact
-🐝 Honey never spoils 🍯
+<strong>🐝 Honey never spoils 🍯<strong>
 
 <!--
 **ErickRz21/ErickRz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
