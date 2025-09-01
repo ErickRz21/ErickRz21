@@ -40,7 +40,7 @@ I'm currently pursuing a bachelors degree in computer systems engineering at "Un
     <img src="https://img.shields.io/badge/Instagram-message?style=for-the-badge&logo=Instagram&logoColor=white&color=%235851DB" alt="instagram">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://erickrz21.github.io">
+  <a href="https://erickrz.netlify.app">
     <img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge&logoColor=white&color=E02947" alt="portfolio">
   </a>
 </div>
